@@ -1,0 +1,8 @@
+package graph;
+
+
+public class Test {
+    public static void main(String[] args) {
+        new Matrice(10,10);
+    }
+}
